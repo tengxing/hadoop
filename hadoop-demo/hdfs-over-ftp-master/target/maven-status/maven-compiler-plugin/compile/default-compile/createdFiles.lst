@@ -1,0 +1,8 @@
+org/apache/hadoop/contrib/ftp/HdfsUser.class
+org/apache/hadoop/contrib/ftp/HdfsUserManager.class
+org/apache/hadoop/contrib/ftp/HdfsOverFtpSystem.class
+org/apache/hadoop/contrib/ftp/HdfsFileSystemView.class
+org/apache/hadoop/contrib/ftp/HdfsOverFtpServer.class
+org/apache/hadoop/contrib/ftp/HdfsFileSystemManager.class
+org/apache/hadoop/contrib/ftp/MySslConfiguration.class
+org/apache/hadoop/contrib/ftp/HdfsFileObject.class
